@@ -1,8 +1,10 @@
+![image info](./snap/welcome.png)
+
 # GOGRAPHAPI
 
 ---
 
-CLI Application for Access and Show Users and Member Detail from Microsoft Graph API Integration.
+CLI Application for Access and Show Users and Member Detail from Microsoft Graph API Integration built with Golang.
 
 ### Background
 
